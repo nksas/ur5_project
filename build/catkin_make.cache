@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/neeraj/ur5_project/devel -DCMAKE_INSTALL_PREFIX=/home/neeraj/ur5_project/install -G Unix Makefiles
